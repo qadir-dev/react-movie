@@ -30,7 +30,7 @@ It serves as a reference and mini-project to reinforce core skills in **React de
 ## 🚀 How to Run
 
 1. Clone the repository  
-   `git clone https://github.com/qadirqanbarpoor/react-movie.git`
+   `git clone https://github.com/qadir-dev/react-movie.git`
 
 2. Navigate to the project folder  
    `cd react-movie`
